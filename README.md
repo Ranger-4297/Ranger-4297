@@ -27,5 +27,5 @@ I *used* to actively make Discord servers and setup bots for people
 **Discord:** `Ranger#4297`, [Dynamic](https://discord.gg/ekMQH384KC) or [YAGPDB community support](https://discord.com/invite/4udtcA5)  
 **Twitter (Personal):** [`@Ranger_4297`](https://twitter.com/Ranger_4297)  
 **Twitter (Servers):** [`@DiscordDynamic`](https://twitter.com/DiscordDynamic)  
-**Email (Personal):** `RhykertheRanger@gmail.com` Only contact for extreme cases  
+**Email (Personal):** `RhykertheRanger.4297@gmail.com` Only contact for extreme cases  
 **Email (Servers):** `DiscDynamic@gmail.com`  
