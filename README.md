@@ -8,12 +8,12 @@
 
 You may know me? I'm Rhyker!  
 Or by my online alias, Ranger!  
-I'm a 15 year old pupil in a highschool in the UK, Wales.  
+I'm a 15 year old pupil in highschool in the UK, Wales.  
 I'm a Discord enthusiast and user. And have been since 2016  
 I know my way around the site very well, and I'm ex-staff in alot of servers!  
 Including [Chill & Advice](https://discord.gg/advice) a mental health community!  
 
-I'm not very knowledgable with codeing or scripting, the only thing I enjoy having a crack at are custom commands for a bot named YAGPDB on Discord *heh*  
+I'm not extremely knowledgable with coding or scripting, the only thing I enjoy having a crack at are custom commands for a bot named YAGPDB on Discord *heh*  
 
 ## Here are some facts about me! 
 
