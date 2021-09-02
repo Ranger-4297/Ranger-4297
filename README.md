@@ -4,21 +4,21 @@
 
 # About me
 
-You may know me? I'm Rhyker!  
-Or by my online alias, Ranger!  
+Hey there, I'm Ranger!
 I'm a 15 year old pupil in highschool in the UK, Wales.  
 I'm a Discord enthusiast and user. And have been since 2016  
-I know my way around the site very well, and I'm ex-staff in alot of Discord servers!  
-Including [Chill & Advice](https://discord.gg/advice). A mental health community!  
+I know my way around the site very well, and I'm ex-staff in alot of Discord servers  
+Including [Chill & Advice](https://discord.gg/advice). A mental health community.  
 
-I'm not extremely knowledgable with coding or scripting, the only thing I enjoy having a crack at are custom commands for a bot named YAGPDB on Discord *heh*  
+I dabble in a few programming languages, such as; Python, JavaScript, CSS, LUA, HTML & GO  
 
 ## Here are some facts about me! 
 
-My pronouns are "It/Itself" though my gender is male  
-I am Welsh, I can also speak the language pretty well  
-I'm an avid ice & roller hockey player  
-I *used* to actively make Discord servers and setup bots for people  
+My pronouns are "It/Itself" although my gender is male  
+I'm Welsh, I can also speak the language pretty well  
+I'm an avid ice & roller skater  
+I edit BetterDiscord themes -- sometimes for looks, or for funcationality :D  
+My dream car is the 1969/1970 Dodge Charger R/T Hemi Supercharged
 
 ### How to contact me
 
