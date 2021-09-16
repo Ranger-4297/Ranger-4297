@@ -4,5 +4,5 @@ title: Rangers site
 deescription: Welcome to my site!
 ---
 
-I'll add stuff here soon!
+I'll add stuff here soon!<br>
 \- Ranger
