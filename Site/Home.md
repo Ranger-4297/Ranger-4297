@@ -8,7 +8,7 @@ permalink: Home
 Hey there, I'm Ranger!
 I'm a 15 year old pupil in highschool in the UK, Wales.  
 I'm a Discord enthusiast and user. And have been since I made my first account in 2016  
-I know my way around the site (Discord) very well, and I've staffed in countless servers; 
+I know my way around the site (Discord) very well, and I've staffed in a few servers;<br>
 Including [Chill & Advice](https://discord.gg/advice)-- A mental health community & [TeenageClub](https://discord.gg/TpHwTpaKJG)--A server just for teenagers.  
 
 I'm a somewhat novice programmer, and I'm studying languages such as; Py, Go, LUA, JS, Ruby, Git, HTML, CSS, Markup, SQL & Razor .
