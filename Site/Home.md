@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rangers site
-deescription: Welcome to my site!
+description: Welcome to my site!
 permalink: Home
 ---
 
