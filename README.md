@@ -10,7 +10,7 @@ I'm a Discord enthusiast and user. And have been since I made my first account i
 I know my way around the site (Discord) very well, and I've staffed in countless servers; 
 Including [Chill & Advice](https://discord.gg/advice)-- A mental health community & [TeenageClub](https://discord.gg/TpHwTpaKJG)--A server just for teenagers.  
 
-I'm a somewhat novice programmer, and I'm studying languages such as;
+I'm a somewhat novice programmer, and I'm studying languages such as; <br>
 Py - School <br>
 Go & JS - Personal projects <br>
 LUA - ROBLOX <br>
