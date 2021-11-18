@@ -11,11 +11,11 @@ I know my way around the site (Discord) very well, and I've staffed in countless
 Including [Chill & Advice](https://discord.gg/advice)-- A mental health community & [TeenageClub](https://discord.gg/TpHwTpaKJG)--A server just for teenagers.  
 
 I'm a somewhat novice programmer, and I'm studying languages such as;
-Py - School
-Go & JS - Personal projects
-LUA - ROBLOX
-Ruby, HTML, CSS, Razor & Markup- Website development
-Git - Source control
+Py - School <br>
+Go & JS - Personal projects <br>
+LUA - ROBLOX <br>
+Ruby, HTML, CSS, Razor & Markup- Website development <br>
+Git - Source control <br>
 PostGreSQL - Database management
 
 ## Here are some facts about me! 
