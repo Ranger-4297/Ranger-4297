@@ -5,7 +5,7 @@
 # About me
 
 Hey there, I'm Ranger!
-I'm a 15 year old pupil in highschool in the UK, Wales.  
+I'm a 16 year old pupil in highschool in the UK, Wales.  
 I'm a Discord enthusiast and user. And have been since I made my first account in 2016   
 
 I'm a freelance programmer and novice front-end dev.<br>
