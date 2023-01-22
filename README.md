@@ -28,4 +28,4 @@ My dream car is the 1969/1970 Dodge Charger R/T Hemi Supercharged
 **Email (Personal):** [`wells@rhykerw.com`](mailto:wells@rhykerw.com)
 
 ### Other
-[My GPG key](https://github.com/Ranger-4297/Ranger-4297/blob/main/public-key.asc)
+[My GPG key](https://raw.githubusercontent.com/Ranger-4297/Ranger-4297/main/public-key.asc)
