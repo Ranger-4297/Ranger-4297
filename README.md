@@ -23,7 +23,7 @@ My dream car is the 1969/1970 Dodge Charger R/T Hemi Supercharged
 
 ### How to contact me
 
-**Discord:** `Ranger#4297` [YAGPDB community support](https://discord.com/invite/4udtcA5)  
+**Discord:** `Ranger` [YAGPDB community support](https://discord.com/invite/4udtcA5)  
 **Twitter (Personal):** [`@Ranger_4297`](https://twitter.com/Ranger_4297)  
 **Email (Personal):** [`wells@rhykerw.com`](mailto:wells@rhykerw.com)
 
